@@ -1,16 +1,11 @@
 # xylophone_flutter
 
-A new Flutter project.
+Regards: WAQAS KHURSHID createb by 04/07/2023
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project basically show panio system with flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/111581093/230661027-365f1709-e04e-425c-9d3a-682a1c3f0b2a.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
